@@ -1,3 +1,3 @@
 # SQL
 
-Relational Database Creation, Adding
+Relational Database Creation, Insert Data, AD Hoc Queries.
